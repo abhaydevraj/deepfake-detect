@@ -45,5 +45,6 @@ A confusion matrix is plotted to visualize the performance of the model.
 Model Training and Evaluation
 The script trains the model and evaluates its performance on the validation set. The confusion matrix is displayed to provide insights into the model's classification performance.
 
+Finally we detect the deepfake with overall accuracy of 84.5%.
 
 
